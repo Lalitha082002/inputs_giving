@@ -1,3 +1,4 @@
+import sys
 def check_age(a):
   return int(age) > 18
 
